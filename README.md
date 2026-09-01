@@ -2,20 +2,17 @@
 
 # Hi, I'm jjz 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Cross-platform+engineer+since+2012;iOS+%C2%B7+Android+%C2%B7+Go+%C2%B7+Node+%C2%B7+Python;Building+trading+%26+blockchain+tooling;Always+shipping+something+new" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Web3+%26+Trading+Systems+Engineer;Matching+engines+%C2%B7+Go+%C2%B7+Rust;Studying+Bitcoin+since+the+protocol+docs;Building+the+infra+markets+run+on" alt="Typing SVG" />
 
 </div>
 
 <br>
 
-### 关于我 / About
+### About
 
-一个从 **2012 年**开始写代码、涉猎广泛的工程师 — 移动端（iOS / Android / React Native）起步，
-后来一路延伸到后端（Go / Node）、区块链与交易系统、以及一点点 AI。喜欢把想法做成能跑起来的小项目。
-
-A polyglot engineer on GitHub since 2012 — started in mobile (iOS / Android / React Native),
-branched into backend services (Go / Node), blockchain & trading systems, and dabbles in AI.
-I like turning ideas into small things that actually run.
+An engineer focused on **Web3 and trading systems** — started by studying the Bitcoin protocol from the ground up,
+then built a matching engine in Go and low-level tooling for parsing on-chain data. My core interest is exchange
+internals, on-chain data, and high-performance systems; alongside that, years of mobile and backend experience.
 
 <br>
 
@@ -24,13 +21,13 @@ I like turning ideas into small things that actually run.
 <div align="center">
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Bitcoin%2FBlockchain-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
+![gRPC](https://img.shields.io/badge/-gRPC-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![Objective--C](https://img.shields.io/badge/-Objective--C-438EFF?style=flat-square&logo=apple&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
@@ -38,18 +35,32 @@ I like turning ideas into small things that actually run.
 
 <br>
 
-### 🚀 Some things I've built
+### ⚡ Web3 & Trading Systems
 
 <div align="center">
 
 | Repo | What it is |
 |---|---|
 | [**xschange**](https://github.com/jjz/xschange) | An extremely simple trade matching engine, written in Go |
+| [**bitcoin-study-index**](https://github.com/jjz/bitcoin-study-index) | Index of notes from studying the Bitcoin protocol |
+| [**gobtcparse**](https://github.com/jjz/gobtcparse) | Bitcoin blockchain data parsing, written in Go |
+| [**btc-go**](https://github.com/jjz/btc-go) | Bitcoin tooling & experiments in Go |
+| [**grpc**](https://github.com/jjz/grpc) | gRPC service experiments in Rust — the kind of plumbing trading infra runs on |
+
+</div>
+
+<br>
+
+### 🧰 Other things I've built
+
+<div align="center">
+
+| Repo | What it is |
+|---|---|
 | [**weixin-mina**](https://github.com/jjz/weixin-mina) | WeChat Mini Program examples & notes |
 | [**android**](https://github.com/jjz/android) | Android learning notes and samples |
 | [**react-native**](https://github.com/jjz/react-native) | React Native examples (Objective-C bridge included) |
 | [**agora-swift**](https://github.com/jjz/agora-swift) | Agora SDK wrapper for Swift |
-| [**bitcoin-study-index**](https://github.com/jjz/bitcoin-study-index) | Index of notes from studying the Bitcoin protocol |
 | [**deep-learn**](https://github.com/jjz/deep-learn) | Deep learning experiments in Python |
 | [**script**](https://github.com/jjz/script) | Everyday shell scripts that save time |
 
