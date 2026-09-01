@@ -70,8 +70,8 @@ internals, on-chain data, and high-performance systems; alongside that, years of
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jjz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="jjz's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jjz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="jjz's GitHub stats" />
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jjz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <br>
 
